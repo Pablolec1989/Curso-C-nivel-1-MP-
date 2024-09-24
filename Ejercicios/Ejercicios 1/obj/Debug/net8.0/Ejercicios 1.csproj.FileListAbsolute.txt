@@ -1,0 +1,14 @@
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\bin\Debug\net8.0\Ejercicios 1.exe
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\bin\Debug\net8.0\Ejercicios 1.deps.json
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\bin\Debug\net8.0\Ejercicios 1.runtimeconfig.json
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\bin\Debug\net8.0\Ejercicios 1.dll
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\bin\Debug\net8.0\Ejercicios 1.pdb
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\Ejercicios 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\Ejercicios 1.AssemblyInfoInputs.cache
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\Ejercicios 1.AssemblyInfo.cs
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\Ejercicios 1.csproj.CoreCompileInputs.cache
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\Ejercicios 1.dll
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\refint\Ejercicios 1.dll
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\Ejercicios 1.pdb
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\Ejercicios 1.genruntimeconfig.cache
+C:\Users\LECCESE\Proyectos Dev\Curso C# nivel 1\Ejercicios\Ejercicios 1\obj\Debug\net8.0\ref\Ejercicios 1.dll
